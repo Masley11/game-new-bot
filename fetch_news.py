@@ -6,7 +6,7 @@ from urllib.parse import urljoin, urlparse
 
 # Configuration
 DEXERTO_URL = "https://www.dexerto.com/gaming/"
-POST_URL = "https://gamemasterx.great-site.net/post_news.php"  # URL de post_news.php
+POST_URL = "https://gamemasterx.great-site.net/test_post.php"  # URL de post_news.php
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
